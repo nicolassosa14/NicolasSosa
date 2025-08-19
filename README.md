@@ -2,7 +2,6 @@
   Hi, I'm Nicolas Sosa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-
 <p align="center">
   <a href="https://github.com/nicolassosa14/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=nicolassosa14"></a>
 </p>
