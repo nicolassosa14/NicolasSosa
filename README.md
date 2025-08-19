@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   Hi, I'm Nicolas Sosa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+</h2>
 <p align="center">
   <a href="https://github.com/nicolassosa14">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=nicolassosa14&style=flat&background=00000000" alt="visitors">
